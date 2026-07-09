@@ -30,7 +30,7 @@ This project demonstrates:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/zexhanamin/educational-keylogger.git
+git clone https://github.com/zexhanamin/demo-keylogger.git
 cd educational-keylogger
 ```
 
