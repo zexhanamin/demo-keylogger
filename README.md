@@ -1,10 +1,10 @@
-# 🔐 Educational Keylogger
+#  Educational Keylogger
 
 A lightweight Python demonstration project for learning about keyboard event monitoring and system-level input capture. **This project is for educational purposes only.**
 
 ⚠️ **DISCLAIMER**: This tool is designed to teach cybersecurity concepts. Unauthorized use of keyloggers is illegal. Always obtain proper consent and follow applicable laws.
 
-## 🎓 Purpose
+## Purpose
 
 This project demonstrates:
 - How keyboard events are captured at the operating system level
@@ -12,7 +12,7 @@ This project demonstrates:
 - File I/O operations in real-time applications
 - Special key handling and mapping
 
-## ✨ Features
+## Features
 
 - **Real-time Keyboard Monitoring**: Captures all keyboard input events
 - **Special Key Detection**: Distinguishes between regular keys and special keys (Enter, Tab, Backspace, etc.)
@@ -21,7 +21,7 @@ This project demonstrates:
 - **Unicode Support**: Handles multi-byte characters correctly
 - **Lightweight**: Minimal dependencies, efficient implementation
 
-## 📦 Requirements
+## Requirements
 
 - Python 3.7+
 - `pynput` library
@@ -44,7 +44,7 @@ Or install directly:
 pip install pynput
 ```
 
-## 📖 Usage
+##  Usage
 
 ### Basic Usage
 ```bash
@@ -64,7 +64,7 @@ Testing[TAB]123[BACKSPACE][BACKSPACE][BACKSPACE]
 [CTRL]C
 ```
 
-## 🛡️ Educational Value
+##  Educational Value
 
 **Learn about:**
 - System-level input monitoring
@@ -73,7 +73,7 @@ Testing[TAB]123[BACKSPACE][BACKSPACE][BACKSPACE]
 - Cross-platform keyboard handling
 - File operations and encoding
 
-## ⚖️ Legal Disclaimer
+##  Legal Disclaimer
 
 **This software is provided for educational purposes only.** 
 
@@ -82,7 +82,7 @@ Testing[TAB]123[BACKSPACE][BACKSPACE][BACKSPACE]
 - The author(s) are **not responsible** for misuse of this software
 - Use only in controlled environments you own or have permission to test
 
-## 🤝 Contributing
+##  Contributing
 
 To contribute:
 1. Fork the repository
@@ -93,17 +93,17 @@ To contribute:
 
 See [CONTRIBUTING.md](docs/CONTRIBUTING.md) for details.
 
-## 📝 License
+##  License
 
 This project is licensed under the **MIT License** - see [LICENSE](LICENSE) file for details.
 
-## 📚 Resources
+## Resources
 
 - [pynput Documentation](https://pynput.readthedocs.io/)
 - [Python File I/O](https://docs.python.org/3/tutorial/inputoutput.html)
 - [Cybersecurity Learning Resources](https://www.cybrary.it/)
 
-## ⚡ Quick Start Example
+##  Quick Start Example
 
 ```python
 from pynput import keyboard
